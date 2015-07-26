@@ -59,6 +59,7 @@
   <ItemGroup>
     <Content Include="images\handymanlogo.jpg" />
     <Content Include="index.html" />
+    <None Include="upload.bat" />
     <Content Include="main.css" />
     <Content Include="Web.config" />
   </ItemGroup>
